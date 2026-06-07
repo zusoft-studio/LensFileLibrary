@@ -1,0 +1,14 @@
+[Verbindung]
+Com=1
+Computer=127.0.0.1
+Port=12198
+[Kalibrierung]
+Pan=400000
+Tilt=200000
+Zoom=-26800
+Focus=31060
+Datei=D:\caldat\digitv\ANG62_2.len
+[Bemerkungen]
+Home=
+Kopf=
+Lens=

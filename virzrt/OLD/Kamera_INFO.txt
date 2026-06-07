@@ -1,0 +1,19 @@
+
+Topue2_33x11_02610
+	Topvision UE2
+	Canon 33fach
+	Snr. 02610
+	Range: 24984 29611
+	Datei: Topue2_33x11_02610.len
+	INFO:
+		eingemessen mit Philips MIC2 am 11.02.2002
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Topue2_21xxx_xxxx
+	Topvision UE2
+	Canon 21fach
+	Datei: Topue2_21x7_xxxx.len
+	Snr. 
+	Range: 3952 6425
+	INFO:
+		eingemessen mit Philips MIC2 am 12.02.2002
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''

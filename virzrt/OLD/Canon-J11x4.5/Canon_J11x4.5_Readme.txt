@@ -1,0 +1,12 @@
+Lens:                    Canon_J11x4.5
+Calibrated by:           Dana & Jason
+Date:                    12/2004
+Customer name:           TTV, Taiwan 
+viz IO version:          2.5.3
+On Camera                Hitachi SK3300P
+CCD Size                 1/2" (???)
+Camera/Lens ratio:       3:4
+PAL/NTSC                 NTSC
+
+ 
+

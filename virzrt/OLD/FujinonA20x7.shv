@@ -1,0 +1,20 @@
+[Verbindung]
+Com=1
+Computer=127.0.0.1
+Port=12198
+[Kalibrierung]
+Pan=400000
+Tilt=200000
+Zoom=-7234
+Focus=-16341
+FakeFOV=0.75
+Datei=C:\Programme\WIGE-MIC\MyShiva\ZDFFujiA20x7_15m.len
+[Bemerkungen]
+Home=15m weg bei nah
+Kopf=
+Lens=
+[CenterShift]
+CSCX=0
+CSCY=0
+CSVX=0
+CSVY=0
